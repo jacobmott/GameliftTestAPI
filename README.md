@@ -3,6 +3,7 @@ My lambda code thats hosted in AWS behind an API gateway (For GameliftTest)
 
 
 ![image](https://jacobmottgithub.s3.amazonaws.com/GameliftTestAPI/Screenshots/lambda-functions1.png)
+![image](https://jacobmottgithub.s3.amazonaws.com/GameliftTestAPI/Screenshots/lambda-functions2.png)
 ![image](https://jacobmottgithub.s3.amazonaws.com/GameliftTestAPI/Screenshots/lambda-functions-screenshots-access1.png)
 
 # Project Setup/Install instructions
